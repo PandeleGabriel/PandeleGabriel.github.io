@@ -1,4 +1,5 @@
 # [Numele Tău]
+![total_station](/assets/img/banana.jpg)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 

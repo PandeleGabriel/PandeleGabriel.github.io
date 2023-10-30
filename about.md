@@ -4,4 +4,4 @@ iata cateva informatii supilmentare despre mine
  - imi place sa nu imi placa lucruri
  - n-am bani
 
-   [homepage](index.md)
+   ![homepage](index.md)
